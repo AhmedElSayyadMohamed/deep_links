@@ -1,0 +1,1 @@
+const String deepLinksDomain = 'deep-links-3deec.firebaseapp.com';

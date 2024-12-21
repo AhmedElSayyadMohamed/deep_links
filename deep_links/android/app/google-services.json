@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515030965730",
+    "project_id": "deep-links-3deec",
+    "storage_bucket": "deep-links-3deec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515030965730:android:bda98a00e46ae515052dbb",
+        "android_client_info": {
+          "package_name": "com.example.deep_links"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_u_uGELir64gnauYyeKgsKAo-8SzYcBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
